@@ -1,6 +1,6 @@
 {
   "name": "html-delegator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Decorate elements with delegated events",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
